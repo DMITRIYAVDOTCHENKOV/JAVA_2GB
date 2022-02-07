@@ -1,6 +1,6 @@
 package ru.avdotchenkov.lesson1.part3;
 
-import com.geekbrains.lesson1.part2.Animal;
+import ru.avdotchenkov.lesson1.part2.Animal;
 
 public class CatV2 extends Animal implements Pet {
 

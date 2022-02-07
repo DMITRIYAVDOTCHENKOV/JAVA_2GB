@@ -1,6 +1,6 @@
-package ru.avdotchenkov.lesson1.myHowework.obstacle;
+package ru.avdotchenkov.lesson1.myHomework.obstacle;
 
-import ru.avdotchenkov.lesson1.myHowework.Participant;
+import ru.avdotchenkov.lesson1.myHomework.Participant;
 
 public class River implements Obstacle {
 

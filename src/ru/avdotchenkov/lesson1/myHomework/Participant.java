@@ -1,4 +1,4 @@
-package ru.avdotchenkov.lesson1.myHowework;
+package ru.avdotchenkov.lesson1.myHomework;
 
 public interface Participant {
     int runDistance();

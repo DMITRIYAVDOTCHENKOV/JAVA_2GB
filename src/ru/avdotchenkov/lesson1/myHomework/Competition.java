@@ -1,7 +1,7 @@
-package ru.avdotchenkov.lesson1.myHowework;
+package ru.avdotchenkov.lesson1.myHomework;
 
 
-import ru.avdotchenkov.lesson1.myHowework.obstacle.Obstacle;
+import ru.avdotchenkov.lesson1.myHomework.obstacle.Obstacle;
 
 import java.util.ArrayList;
 import java.util.List;
