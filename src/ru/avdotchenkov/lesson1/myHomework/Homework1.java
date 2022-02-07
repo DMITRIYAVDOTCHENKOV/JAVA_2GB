@@ -1,10 +1,10 @@
-package ru.avdotchenkov.lesson1.myHowework;
+package ru.avdotchenkov.lesson1.myHomework;
 
 
-import ru.avdotchenkov.lesson1.myHowework.obstacle.Obstacle;
-import ru.avdotchenkov.lesson1.myHowework.obstacle.River;
-import ru.avdotchenkov.lesson1.myHowework.obstacle.Track;
-import ru.avdotchenkov.lesson1.myHowework.obstacle.Wall;
+import ru.avdotchenkov.lesson1.myHomework.obstacle.Obstacle;
+import ru.avdotchenkov.lesson1.myHomework.obstacle.River;
+import ru.avdotchenkov.lesson1.myHomework.obstacle.Track;
+import ru.avdotchenkov.lesson1.myHomework.obstacle.Wall;
 
 
 

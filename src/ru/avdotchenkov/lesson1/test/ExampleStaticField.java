@@ -1,6 +1,6 @@
 package ru.avdotchenkov.lesson1.test;
 
-import com.geekbrains.lesson1.part1.Document;
+import ru.avdotchenkov.lesson1.part1.Document;
 
 public class ExampleStaticField extends Document {
 
