@@ -6,7 +6,7 @@ public class MainApp {
                 new Wall(), new Cross(), new Cross()
         };
         Participan[] participans = {
-                new Cat(), new Human()
+                new Cat("name", 5,10), new Human()
         };
         for (Participan participan : participans) {
             for (Obstacle obstacle : obstacles) {
